@@ -1,6 +1,6 @@
 # kodluyoruzilkrepo
 Kodluyoruz Front-End Egitimi kapsaminda actigim ilk repo.
-!Bu proje [Kodluyoruz](kodluyoruz.com) Front-End Egitiminde olusturdugumuz ilk repo. Icerisinde bir adet README dosyasi, bir adet de index.html dosyasi barindiriyor.
+!Bu proje [Kodluyoruz](kodluyoruz.org) Front-End Egitiminde olusturdugumuz ilk repo. Icerisinde bir adet README dosyasi, bir adet de index.html dosyasi barindiriyor.
 
 # Installation
 Oncelikle projeyi clonelayin. (buraya sizin reponuzdan aldiginiz link gelecek)
@@ -22,4 +22,4 @@ code
 Pull requestler kabul edilir. Buyuk degisiklikler icin, lutfen once neyi degistirmek istediginizi tartismak icin bir konu aciniz.
 
 # License 
-![MIT](mit.com)
+![MIT](mit.edu)
